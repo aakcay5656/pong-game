@@ -26,7 +26,8 @@ def move_player2():
         elif p2.ycor() > -250:
             p2.down()
 ```
-<img src="img/img1.PNG" width=600 height=300></img> 
+![im1](https://github.com/aakcay5656/pong-game/assets/92251685/05bfef2a-fc24-4a53-b142-46d9c63eaebc)
+
 ## Dependencies
 
 This project needs these dependencies:
